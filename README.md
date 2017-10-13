@@ -1,2 +1,2 @@
 # Arena-of-Z-thula
-Another mod made by CotD Team
+This mod will commence once Delver 1.0 releases.
